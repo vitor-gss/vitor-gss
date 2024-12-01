@@ -1,14 +1,10 @@
-# Welcome!
+:computer: -
 
-## I'm Vitor!
+:house_with_garden: -
 
-:computer: I'm Front-End Developer!
+:books: -
 
-:house_with_garden: I’m from Brazil.
-
-:books: I’m currently learning everything.
-
-## About me
+## Sobre mim
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vitor-gss)](https://github.com/vitor-gss)
 
